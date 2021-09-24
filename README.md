@@ -1,4 +1,4 @@
-# mjl-FitnessTracker
+# FitnessTracker
 
 ## Table of Contents:
 * [Deployed App](#deployed-app)
