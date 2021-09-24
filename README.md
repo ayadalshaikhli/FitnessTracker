@@ -8,8 +8,7 @@
 
 ## Deployed App
 
-This app is deployed on Heroku: https://fast-cove-67446.herokuapp.com/
-
+This app is deployed on Heroku: https://protected-earth-96622.herokuapp.com/
 ## Description
 
 This assignement was to create a workout tracker. The front end code was supplied for the assignment, so my task was to create a MongoDB database with a Mongoose schema and to add Express routes. Here is the user story (which was provided for the assignment):
